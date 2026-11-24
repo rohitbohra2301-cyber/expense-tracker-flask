@@ -2,7 +2,7 @@
 Expense Tracker — Flask + SQLite + SQLAlchemy.
 
 Run locally:
-    pip install -r requirements.txt
+    pip install -r requirements.txts
     python app.py
     # then open http://127.0.0.1:5000
 
